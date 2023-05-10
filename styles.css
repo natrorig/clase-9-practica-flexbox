@@ -1,6 +1,7 @@
 body {
     display: flex;
     flex-wrap: wrap;
+
 }
 
 /* ejercicio 1 */
@@ -64,4 +65,42 @@ body {
     height: 150px;
     background-color:aqua;
     flex-grow: 1;
+}
+
+/* ejercicio 4 */
+.div141 {
+    height: 150px;
+    background-color:aqua;
+    flex-grow: 0.5;
+}
+
+.div142 {
+    height: 150px;
+    background-color: yellow;
+    flex-grow: 0.25;
+}
+
+.div143 {
+    height: 150px;
+    background-color:aqua;
+    flex-grow: 0.25;
+}
+
+/* ejercicio 5 */
+.div151 {
+    height: 150px;
+    background-color:aqua;
+    flex-grow: 0.2;
+}
+
+.div152 {
+    height: 150px;
+    background-color: yellow;
+    flex-grow: 0.2;
+}
+
+.div153 {
+    height: 150px;
+    background-color:aqua;
+    flex-grow: 0.6;
 }
